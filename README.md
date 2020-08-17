@@ -1,6 +1,6 @@
 # Music-website :musical_note:
 Website which is build by using HTML,CSS and Javascript.
-[ Click here ](https://purnima143.github.io/royalbakery/) to check the site.
+[ Click here ](https://purnima143.github.io/Music-website/) to check the site.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
